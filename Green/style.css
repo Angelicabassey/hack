@@ -92,6 +92,9 @@ header ul li a{
         box-sizing: border-box;
         margin: 0;
     }
+
+    /* I just worked */
+    
     header{
         background: rgba(18, 41, 16, 0.89);
         /* background: linear-gradient(rgba(13, 53, 21, 0.7),rgba(12, 48, 19, 0.7)); */
